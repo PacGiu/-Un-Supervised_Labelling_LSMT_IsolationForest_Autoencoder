@@ -1,5 +1,5 @@
 This folder contains the analysis and solution of a labelling problem.
-I approached the problem both using Deep Neural Networds achitectures (LSMT/Autoencoder) and unsupervised learning (Isolation Forest). This is a prototype study.
+I approached the problem both using Deep Neural Networds achitectures (LSTM/Autoencoder) and unsupervised learning (Isolation Forest). This is a prototype study.
 
 Notebooks are annotated and should be clear to follow. All material is already printed.
 If you would like to re-run the notebooks, please make sure you have all the needed libraries up to date in Python3. The imports are all called on the top cell of the notebook.
